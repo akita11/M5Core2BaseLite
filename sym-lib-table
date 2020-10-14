@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name M5GOBaseLite_SMD-rescue)(type Legacy)(uri ${KIPRJMOD}/M5GOBaseLite_SMD-rescue.lib)(options "")(descr ""))
+  (lib (name M5Core2BaseLite-rescue)(type Legacy)(uri ${KIPRJMOD}/M5Core2BaseLite-rescue.lib)(options "")(descr ""))
+)
