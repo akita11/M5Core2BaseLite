@@ -9,6 +9,6 @@ M5StackCore2's base board for PortA/B/C/D/E
 
 Note: VDD of PortA' can be selectable from 3.3V/5V by solder jumber. Default is 3.3V.
 
-* Author
+# Author
 
 Junichi Akita (@akita11, akita@ifdl.jp)
