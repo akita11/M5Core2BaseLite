@@ -1,4 +1,7 @@
 # M5CoreBaseLite
+
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/master/M5Core2BaseLite.jpg" width="240px">
+
 M5StackCore2's base board for PortA/B/C/D/E
 
 - PortA: G32/G33
