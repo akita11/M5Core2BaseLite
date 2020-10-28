@@ -18,7 +18,7 @@
   - アクリル板（3種）
 <img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite5.jpg" width="240px">
 
-  - M3ネジ（30mm2本、20mm2本）
+  - M3ネジ（20mm2本、15mm2本）
 
 2. M5StackCore2の底板と、加速度センサが載っている小ボードををはずします。
 またリチウムイオンバッテリを底板から外しておきます（本体コネクタからは外さない）。
