@@ -13,12 +13,12 @@
 1. 以下の部品を用意します。
 
   - ボード
-<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite.jpg" width="240px">
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_boardhttps://github.com/akita11/M5Core2BaseLite_board.jpg" width="240px">
 
   - アクリル板（3種）
-<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite5.jpg" width="240px">
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_acryl.jpg" width="240px">
 
-  - M3ネジ（20mm2本、15mm2本）
+  - M3ネジ（20mm x 2本、15mm x 2本）
 
 2. M5StackCore2の底板と、加速度センサが載っている小ボードををはずします。
 またリチウムイオンバッテリを底板から外しておきます（本体コネクタからは外さない）。
@@ -27,12 +27,26 @@
 
 3. リチウムイオンバッテリをボードの溝を通しつつ、本体M5StackCore2本体にボードをとりつけ、アクリル板（2種）を置きます。
 
-<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite4.jpg" width="240px">
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_build1.jpg" width="240px">
 
-<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite3.jpg" width="240px">
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_build2.jpg" width="240px">
 
 4. アクリル板（1mm厚）を置き、上の図のネジがおいてある場所の近くの長さのネジで、アクリル板（すべて）、ボード、M5StackCore2を固定します。
 （※とりつけるネジの長さに注意）
+
+## サイドの8pコネクタ（オプション）
+
+オプションで8pメスソケットを取り付け、5本のIO(G26, G32, G33, G35, G36)と5V/3.3Vの電源を横に引き出すことができます。
+ジャンパワイヤ等で使用できます。
+アクリル板の切り込みに沿ってカットします。（細い部分が折れやすいため、折れてしまった場合は、そのままネジで固定するか、透明ボンド等で固定してください）
+
+
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_op1.jpg" width="240px">
+
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_op2.jpg" width="240px">
+
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_op3.jpg" width="240px">
+
 
 ## 各ポートとGPIOの対応
 
