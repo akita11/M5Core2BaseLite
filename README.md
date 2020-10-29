@@ -13,7 +13,7 @@
 1. 以下の部品を用意します。
 
   - ボード
-<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_boardhttps://github.com/akita11/M5Core2BaseLite_board.jpg" width="240px">
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_board.jpg" width="240px">
 
   - アクリル板（3種）
 <img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_acryl.jpg" width="240px">
@@ -41,11 +41,11 @@
 アクリル板の切り込みに沿ってカットします。（細い部分が折れやすいため、折れてしまった場合は、そのままネジで固定するか、透明ボンド等で固定してください）
 
 
-<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_op1.jpg" width="240px">
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5Core2BaseLite_op1.jpg" width="240px">
 
-<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_op2.jpg" width="240px">
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5Core2BaseLite_op2.jpg" width="240px">
 
-<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_op3.jpg" width="240px">
+<img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5Core2BaseLite_op3.jpg" width="240px">
 
 
 ## 各ポートとGPIOの対応
