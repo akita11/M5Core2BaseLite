@@ -51,11 +51,11 @@
 ## 各ポートとGPIOの対応
 
 ※底板のラベルにも書いてあります
-- PortA, PortA': G32/G33
-- PortB: G26/G36
-- PortC: G14/G13
-- PortD: G35/G34
-- PortE: G19/G27
+- PortA, PortA'(赤): G32/G33
+- PortB(黒): G26/G36
+- PortC(青): G14/G13
+- PortD(緑): G35/G34
+- PortE(黄): G19/G27
 
 なおPortA'（ピンク色で表示）の電源電圧は標準で3.3Vですが、ボード裏面のハンダジャンパで5Vに切り替えることができます。
 
