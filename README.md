@@ -7,6 +7,7 @@
 - [M5StackCore2](https://www.switch-science.com/catalog/6530/)の底板と交換し、各種UNIT等を接続するPortを増設します。
 - PortはA, B, C, D, Eの5種類があり、そのうちPortAは2個（うち1個は電源電圧を3.3V(標準)と5Vから選択）あります。
 - これらのPortは、UIFlowから利用できます。また以下のGPIOの割当を使って、ArduinoIDE等からも利用できます。
+- コネクタの色は、この写真ではすべて白ですが、後述のようにPortA/B/C/D/Eで色を分けることもできます。
 
 ## 組み立て方 / How to Build 
 
@@ -54,7 +55,7 @@
 - PortA, PortA'(赤): G32/G33
 - PortB(黒): G26/G36
 - PortC(青): G14/G13
-- PortD(緑): G35/G34
+- PortD(緑／黄緑): G35/G34
 - PortE(黄): G19/G27
 
 なおPortA'（ピンク色で表示）の電源電圧は標準で3.3Vですが、ボード裏面のハンダジャンパで5Vに切り替えることができます。
