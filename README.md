@@ -5,7 +5,7 @@
 <img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite2.jpg" width="240px">
 
 - [M5StackCore2](https://www.switch-science.com/catalog/6530/)の底板と交換し、各種UNIT等を接続するPortを増設します。
-- PortはA, B, C, D, Eの5種類があり、そのうちPortAは2個（うち1個は電源電圧を3.3V(標準)と5Vから選択）あります。
+- PortはA, B, C, D, Eの5種類があり、そのうちPortAは2個（うち1個は電源電圧を3.3Vに変更できます）あります。※v1.0aから、PortAはいずれも電源電圧5Vとなりました（うち1つ(PortA')は3.3Vに変更可能）
 - これらのPortは、UIFlowから利用できます。また以下のGPIOの割当を使って、ArduinoIDE等からも利用できます。
 - コネクタの色は、この写真ではすべて白ですが、後述のようにPortA/B/C/D/Eで色を分けることもできます。
 
@@ -16,7 +16,7 @@
   - ボード
 <img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_board.jpg" width="240px">
 
-  - アクリル板（3種）
+  - アクリル板（3種）※v1.0aから一部部材の形状が変更になっています
 <img src="https://github.com/akita11/M5Core2BaseLite/blob/main/M5CoreBaseLite_acryl.jpg" width="240px">
 
   - M3ネジ（20mm x 2本、15mm x 2本）
@@ -52,13 +52,13 @@
 ## 各ポートとGPIOの対応
 
 ※底板のラベルにも書いてあります
-- PortA, PortA'(赤): G32/G33
+- PortA(赤): G32/G33
 - PortB(黒): G26/G36
 - PortC(青): G14/G13
 - PortD(緑／黄緑): G35/G34
 - PortE(黄): G19/G27
 
-なおPortA'（ピンク色で表示）の電源電圧は標準で3.3Vですが、ボード裏面のハンダジャンパで5Vに切り替えることができます。
+なおPortA'（ピンク色で表示）の電源電圧は、ボード裏面のハンダジャンパでは3.3Vに切り替えることができます。
 
 # Author
 
