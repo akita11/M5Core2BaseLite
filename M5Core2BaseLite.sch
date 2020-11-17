@@ -227,10 +227,10 @@ Wire Wire Line
 Text Label 7600 5800 0    70   ~ 0
 GPIO12
 $Comp
-L M5Core2BaseLite-rescue:CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN1
+L M5Core2BaseLite-rescue:CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN5
 U 1 1 496D2C97
 P 8250 2900
-F 0 "CN1" H 8200 3100 42  0000 L BNN
+F 0 "CN5" H 8200 3100 42  0000 L BNN
 F 1 "CON_GROVEH" V 8350 2750 42  0000 L BNN
 F 2 "M5GObase_sub:CON_GROVE_H" H 8250 2900 50  0001 C CNN
 F 3 "" H 8250 2900 50  0001 C CNN
@@ -238,10 +238,10 @@ F 3 "" H 8250 2900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L M5Core2BaseLite-rescue:CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN2
+L M5Core2BaseLite-rescue:CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN4
 U 1 1 3E9C7CC7
 P 8250 3400
-F 0 "CN2" H 8200 3600 42  0000 L BNN
+F 0 "CN4" H 8200 3600 42  0000 L BNN
 F 1 "CON_GROVEH" V 8350 3250 42  0000 L BNN
 F 2 "M5GObase_sub:CON_GROVE_H" H 8250 3400 50  0001 C CNN
 F 3 "" H 8250 3400 50  0001 C CNN
@@ -260,10 +260,10 @@ F 3 "" H 8250 3900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L M5Core2BaseLite-rescue:CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN4
+L M5Core2BaseLite-rescue:CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN2
 U 1 1 61EA98FF
 P 8250 4400
-F 0 "CN4" H 8200 4600 42  0000 L BNN
+F 0 "CN2" H 8200 4600 42  0000 L BNN
 F 1 "CON_GROVEH" V 8350 4250 42  0000 L BNN
 F 2 "M5GObase_sub:CON_GROVE_H" H 8250 4400 50  0001 C CNN
 F 3 "" H 8250 4400 50  0001 C CNN
@@ -271,10 +271,10 @@ F 3 "" H 8250 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L M5Core2BaseLite-rescue:CON_GROVEV-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN5
+L M5Core2BaseLite-rescue:CON_GROVEV-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN1
 U 1 1 4DB63874
 P 8250 4900
-F 0 "CN5" H 8200 5100 42  0000 L BNN
+F 0 "CN1" H 8200 5100 42  0000 L BNN
 F 1 "CON_GROVEV" V 8350 4750 42  0000 L BNN
 F 2 "M5GObase_sub:CON_GROVE_V" H 8250 4900 50  0001 C CNN
 F 3 "" H 8250 4900 50  0001 C CNN
@@ -304,10 +304,10 @@ F 3 "" H 7000 3400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L M5Core2BaseLite-rescue:CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN8
+L M5Core2BaseLite-rescue:CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN6
 U 1 1 99C0620C
 P 8250 5400
-F 0 "CN8" H 8200 5600 42  0000 L BNN
+F 0 "CN6" H 8200 5600 42  0000 L BNN
 F 1 "CON_GROVEH" V 8350 5250 42  0000 L BNN
 F 2 "M5GObase_sub:CON_GROVE_H" H 8250 5400 50  0001 C CNN
 F 3 "" H 8250 5400 50  0001 C CNN
@@ -315,10 +315,10 @@ F 3 "" H 8250 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L M5Core2BaseLite-rescue:CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN9
+L M5Core2BaseLite-rescue:CON_GROVEH-M5GObase_sub-eagle-import-M5GOBaseLite-rescue CN7
 U 1 1 86A80BA3
 P 8250 5900
-F 0 "CN9" H 8200 6100 42  0000 L BNN
+F 0 "CN7" H 8200 6100 42  0000 L BNN
 F 1 "CON_GROVEH" V 8350 5750 42  0000 L BNN
 F 2 "M5GObase_sub:CON_GROVE_H" H 8250 5900 50  0001 C CNN
 F 3 "" H 8250 5900 50  0001 C CNN
@@ -342,10 +342,10 @@ GPIO15
 Wire Wire Line
 	3600 1550 3600 1650
 $Comp
-L akita:MBUS_bottom CN6
+L akita:MBUS_bottom CN8
 U 1 1 5E3A0B90
 P 5250 3700
-F 0 "CN6" H 5478 2985 59  0000 L CNN
+F 0 "CN8" H 5478 2985 59  0000 L CNN
 F 1 "MBUS_bottom" H 5250 3700 50  0001 C CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_2x15_P2.54mm_Vertical_SMD" H 5250 3700 50  0001 C CNN
 F 3 "" H 5250 3700 50  0001 C CNN
@@ -869,7 +869,7 @@ F 1 "SolderJumper_3_Bridged12" V 7155 4368 50  0000 L CNN
 F 2 "Jumper:SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm" H 7200 4300 50  0001 C CNN
 F 3 "~" H 7200 4300 50  0001 C CNN
 	1    7200 4300
-	0    -1   -1   0   
+	0    -1   1    0   
 $EndComp
 Wire Wire Line
 	8150 4000 7350 4000
