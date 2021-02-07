@@ -9,6 +9,8 @@
 - これらのPortは、UIFlowから利用できます。また以下のGPIOの割当を使って、ArduinoIDE等からも利用できます。
 - コネクタの色は、この写真ではすべて白ですが、後述のようにPortA/B/C/D/Eで色を分けることもできます。
 
+これを使う[ハンズオン資料(GomiHgy氏作)](https://docs.google.com/presentation/d/11nBajGIhjv-naQnr_dzS9U8Bt7wMfS5UbUuWfKnAS3c/edit#slide=id.p)などで、M5StackCore2を使ったIoT演習などに活用できます。
+
 ## 組み立て方 / How to Build 
 
 1. 以下の部品を用意します。
